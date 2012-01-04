@@ -1,11 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 3.3.10.4
 -- http://www.phpmyadmin.net
---
--- Host: mysql.treutech.com
--- Generation Time: Jan 03, 2012 at 05:57 PM
--- Server version: 5.1.53
--- PHP Version: 5.2.17
+
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
