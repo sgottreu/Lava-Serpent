@@ -36,6 +36,6 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `fname`, `lname`, `email`, `salt`, `password`) VALUES
-(2, 'Scott', 'Gottreu', 'sgottreu@hotmail.com', '2012-01-03 17:21:22', 'b7c43517af6b809fc037aeda11789ccd'),
+(2, 'Scott', 'Smith', 'user@hotmail.com', '2012-01-03 17:21:22', 'b7c43517af6b809fc037aeda11789ccd'),
 (3, 'John', 'Doe', 'jdoe@hotmail.com', '2012-01-03 17:53:31', '76f996de8cf0c0f47059aa84c1dd9bc8'),
 (4, 'Albert', 'Einstein', 'genius@us.gov', '2012-01-03 17:57:16', 'a77f2229ab110b5837c0db649cb12b70');
